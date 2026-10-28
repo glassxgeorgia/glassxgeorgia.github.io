@@ -1,2 +1,1 @@
-# glassxgeorgia.github.io
-GlassX | Smart Film Georgia — Official Website
+GlassX website — upload the CONTENTS of this folder to the root of your GitHub Pages repository. Keep index.html and assets/ together. Six independent ON/OFF photos are under assets/glassx-*.webp. Original images are AI-generated illustrative visuals, not actual completed projects.
